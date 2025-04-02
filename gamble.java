@@ -1,6 +1,6 @@
 package java_aulas;
 import java.util.Scanner;
-public class Gamble {
+public class gamble {
     public static void main(String[]args){
         double fichas = 1000;
         Scanner ler = new Scanner(System.in);
