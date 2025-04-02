@@ -1,9 +1,10 @@
+package java_aulas;
 import java.util.Scanner;
-public class gamble {
+public class Gamble {
     public static void main(String[]args){
         double fichas = 1000;
         Scanner ler = new Scanner(System.in);
-        while(fichas != 0){
+        while(fichas != 0||fichas < 0){
             System.out.print("quantos você apostaria: ");
             double aposta = ler.nextDouble();
             System.out.println("quantidade de fichas: "+fichas);
@@ -15,6 +16,9 @@ public class gamble {
             if (sorte == num){
                 fichas += fichas * 0.03;
             }else{fichas -= aposta;}
-        }System.out.println("fim do jogo,você faliu.");
+            if(fichas < 0) {
+            	break;
+            }
+        }System.out.println("fim do jogo,você faliu."+fichas);
     }
 }
