@@ -11,7 +11,7 @@ public class Atv_3 {
 		int j = i+1;
 		int r = 0;
 		while (r != j) {
-			System.out.println(r+"x"+n1+"="+j*n1);
+			System.out.println(r+"x"+n1+"="+r*n1);
 			r++;
 		}
 	}
