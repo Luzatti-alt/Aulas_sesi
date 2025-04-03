@@ -6,7 +6,7 @@ public class Atv_5 {
 		Scanner ler = new Scanner(System.in);
 		Random num = new Random();
 		int num_secreto = num.nextInt(10)+1; 
-		System.out.println("num: "+ num_secreto);
+		//System.out.println("num: "+ num_secreto);
 		int tent = 10;
 		while (tent != 0) {
 			System.out.println("número de tentativas: "+ tent);
