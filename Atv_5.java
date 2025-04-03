@@ -10,7 +10,7 @@ public class Atv_5 {
 		int tent = 10;
 		while (tent != 0) {
 			System.out.println("número de tentativas: "+ tent);
-			System.out.println("digite um número de 0-100");
+			System.out.println("digite um número de 0-10");
 			int resp = ler.nextInt();
 			
 			if(num_secreto == resp){
