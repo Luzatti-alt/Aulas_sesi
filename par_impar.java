@@ -6,5 +6,9 @@ public class par_impar {
 		System.out.println("digite um número: ");
 		int n1 = scanner.nextInt();
 		int res = (n1 % 2);
-		system.out.println(res);
+		if(res.equals(0)) {
+			System.out.println("par");
+		}else {
+			System.out.println("ímpar");
+		}
 }}
