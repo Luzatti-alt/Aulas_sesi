@@ -6,11 +6,11 @@ public class Atv_6 {
 		Scanner ler = new Scanner(System.in);
 		System.out.println("Digite sua senha: ");
 		String senha = ler.nextLine();
-		if (senha.lenght()>=8) {
-			//.lenght()>=8 limita até 8 letras
-			System.out.println("acesso garantido");
+		if (senha.length()>=8) {
+			//.lenght()>=8 limita de 8 letras ou mais
+			System.out.println("senha valida");
 		}else{
-			System.out.println("acesso negado");
+			System.out.println("senha invalida");
 		}
 	}
 }
