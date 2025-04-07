@@ -20,7 +20,6 @@ public class Switch {
 			break;
 		default:
 			System.out.println("selecão invalida");
-
 		}
 	}
 }
