@@ -29,7 +29,7 @@ public class Dia {
 			System.out.println("hoje dia "+dia+" é domingo");
 			System.out.println("semana 2");
 			break;
-		default:
+		case 7:
 			System.out.println("hoje dia "+dia+" é segunda");
 			System.out.println("semana 2");
 			break;
