@@ -12,6 +12,7 @@ public class Switch {
 		case 1:
 			System.out.println("Usuario foi Cadastrado");
 			break;
+			//se não tiver o break ele roda os outros resultados
 		case 2:
 			System.out.println("Usuario foi Excluido");
 			break;
