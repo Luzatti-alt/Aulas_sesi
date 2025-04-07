@@ -10,10 +10,10 @@ public class Switch {
 		int ops = ler.nextInt();
 		switch(ops) {
 		case 1:
-			System.out.println("Usuario Cadastrado");
+			System.out.println("Usuario foi Cadastrado");
 			break;
 		case 2:
-			System.out.println("Usuario Excluido");
+			System.out.println("Usuario foi Excluido");
 			break;
 		case 3:
 			System.out.println("saindo");
