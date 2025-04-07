@@ -6,6 +6,7 @@ public class Switch_p2 {
 	public static void main(String[] args) {
 		Scanner ler = new Scanner(System.in);
 		int opcao;
+		//faz enquanto|do{}while()
 		do {
 		System.out.println("1- Cadastrar usuario:");
 		System.out.println("2- Excluir usuario");
