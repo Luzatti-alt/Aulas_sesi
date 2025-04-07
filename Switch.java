@@ -15,8 +15,12 @@ public class Switch {
 		case 2:
 			System.out.println("Usuario Excluido");
 			break;
-		default:
+		case 3:
 			System.out.println("saindo");
+			break;
+		default:
+			System.out.println("selecão invalida");
+
 		}
 	}
 }
