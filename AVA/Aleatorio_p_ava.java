@@ -1,4 +1,3 @@
-package java_aulas;
 import java.util.Random;
 public class Aleatorio_p_ava {
 	public static void main(String[]args) {
