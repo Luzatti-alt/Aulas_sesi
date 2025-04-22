@@ -1,6 +1,6 @@
 # O que é este github:
 Backup dos códigos pedidos/realizados/utilizados no aprendizado em sala de aula 3°A sesi 2025 (Owner:Lucas Guzatti)
-![GitHub Logo]([https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png))
+![GitHub Logo]([https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png)
 
 # para criar diretorio no github:
 nome do diretorio/ nome do arquivo 
