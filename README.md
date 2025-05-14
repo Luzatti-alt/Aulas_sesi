@@ -1,4 +1,4 @@
-# O que é este github:
+# Uso deste github:
 Backup dos códigos pedidos/realizados/utilizados no aprendizado em sala de aula 3°A sesi 2025
 # para criar diretorio no github:
 nome do diretorio/ nome do arquivo 
