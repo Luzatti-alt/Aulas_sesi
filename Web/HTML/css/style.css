@@ -9,17 +9,16 @@ h2{
     color: white;
     font-size: 200%;
 }
-.box img{
-    position: fixed;
-    top: 0px;
-    right: 0px;
-
-    width: 100px;
-    height: 100px;
-}
 .box{
+    display: flex;
+    align-items: center;
+
     border-style: groove;
     border-radius: 5px;
+}
+.box img{
+    width: 100px;
+    height: 100px;
 }
 .fotos{
     background-color: lightblue;
