@@ -16,6 +16,13 @@ h2{
     border-style: groove;
     border-radius: 5px;
 }
+.box_left{
+    display: flex;
+    justify-content: space-between;/*faz ficar entre os cantos*/
+    align-items: space-between;
+    border-style: groove;
+    border-radius: 5px;
+} 
 .box img{
     width: 100px;
     height: 100px;
