@@ -11,7 +11,7 @@ h2{
 }
 .box{
     display: flex;
-    align-items: center;
+    align-items: space-between;
 
     border-style: groove;
     border-radius: 5px;
