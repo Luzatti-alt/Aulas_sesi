@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+    font-size: 200%;
+}
+.box{
+    border-style: groove;
+    border-radius: 5px;
+}
+.fotos{
+    background-color: lightblue;
+    border-style: groove;
+    height: 500px;
+    border-radius: 5px;
+}
