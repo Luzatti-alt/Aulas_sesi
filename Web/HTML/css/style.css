@@ -9,6 +9,10 @@ h2{
     color: white;
     font-size: 200%;
 }
+img{
+    width: 100px;
+    height: 100px;
+}
 .box{
     border-style: groove;
     border-radius: 5px;
