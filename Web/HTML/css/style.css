@@ -46,6 +46,14 @@ h3{
     border-style: groove;
     border-radius: 5px;
 }
+.vids{
+    display: flex;
+    justify-content: center;
+    background-color: lightblue;
+    border-style: groove;
+    height: 205px;
+    border-radius: 5px;
+}
 .roda_pe{
     background-color: black;
     height: 100px;
