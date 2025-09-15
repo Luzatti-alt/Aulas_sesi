@@ -54,7 +54,7 @@ h3{
     height: 205px;
     border-radius: 5px;
 }
-.vids video{
+.vids iframe{
     height: 200px;
     width: 200px;
     border-style: groove;
