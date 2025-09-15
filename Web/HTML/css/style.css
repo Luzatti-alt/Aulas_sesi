@@ -57,8 +57,6 @@ h3{
 .vids video{
     height: 200px;
     width: 400px;
-    border-style: groove;
-    border-radius: 5px;
 }
 .roda_pe{
     background-color: black;
