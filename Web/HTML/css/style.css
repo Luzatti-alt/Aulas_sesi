@@ -1,5 +1,6 @@
 body {
     background-color: white;
+    margin: 0;
 }
 h1 {
     font-size: 200%;
@@ -46,5 +47,6 @@ h2{
     background-color: black;
     height: 100px;
     width: 100%;
+    left: 0px;
     bottom: 0;
 }
