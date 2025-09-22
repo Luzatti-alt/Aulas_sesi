@@ -4,3 +4,27 @@ Body{
 p, h1, h2,h3,p,nav,td,th,li{
     color:white;
 }
+.nome input{
+    width: 60%;
+    height: 100px;
+}
+.nome button{
+    width: 20%;
+    height: 100px;
+}
+.email input{
+    width: 60%;
+    height: 100px;
+}
+.email button{
+    width: 20%;
+    height: 100px;
+}
+.tel input{
+    width: 60%;
+    height: 100px;
+}
+.tel button{
+    width: 20%;
+    height: 100px;
+}
